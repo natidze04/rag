@@ -1,0 +1,12 @@
+[project]
+name = "vexio-backend"
+version = "0.1.0"
+description = "Vexio Backend API"
+readme = "README.md"
+dependencies = [
+    "fastapi==0.136.1",
+    "uvicorn==0.46.0",
+    "google-genai==1.74.0",
+    "pandas==3.0.2",
+    "scikit-learn==1.8.0",
+]

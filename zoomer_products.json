@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Motorola RAZR 70 5G 8/256GB Sporting Green",
+        "price": "2499"
+    },
+    {
+        "name": "Motorola RAZR 70 5G 8/256GB Pantone Hematite",
+        "price": "2499"
+    },
+    {
+        "name": "Samsung Galaxy A37 A376ED 5G 8/128GB Light Violet",
+        "price": "999"
+    },
+    {
+        "name": "Samsung Galaxy A37 A376ED 5G 8/128GB Dark Green",
+        "price": "999"
+    },
+    {
+        "name": "Samsung Galaxy A37 A376ED 5G 8/128GB Black",
+        "price": "999"
+    },
+    {
+        "name": "Samsung Galaxy A57 A576BD 5G 8/128GB Violet",
+        "price": "1259"
+    },
+    {
+        "name": "Samsung Galaxy A57 A576BD 5G 8/128GB Grey",
+        "price": "1259"
+    },
+    {
+        "name": "Samsung Galaxy A57 A576BD 5G 8/128GB Dark Blue",
+        "price": "1259"
+    },
+    {
+        "name": "Samsung Galaxy S26 Ultra S948 5G 12/256GB Cobalt Violet",
+        "price": "3599"
+    },
+    {
+        "name": "Samsung Galaxy S26 Ultra S948 5G 16/1TB Sky Blue",
+        "price": "4899"
+    },
+    {
+        "name": "Samsung Galaxy S26+ S947 5G 12/256GB Black",
+        "price": "2799"
+    },
+    {
+        "name": "Samsung Galaxy S26 S942 5G 12/256GB White",
+        "price": "2549"
+    },
+    {
+        "name": "Apple iPhone 17 Pro Max e-SIM Only | 256GB Cosmic Orange",
+        "price": "4299"
+    },
+    {
+        "name": "Apple iPhone 17 Pro Max e-SIM Only | 256GB Silver",
+        "price": "4299"
+    },
+    {
+        "name": "Apple iPhone 17 Pro Max e-SIM Only | 256GB Deep Blue",
+        "price": "4299"
+    },
+    {
+        "name": "Apple iPhone 17 Pro Max | 256GB Cosmic Orange",
+        "price": "4629"
+    },
+    {
+        "name": "Apple iPhone 17 Pro Max | 256GB Deep Blue",
+        "price": "4629"
+    },
+    {
+        "name": "Apple iPhone 17 Pro Max | 256GB Silver",
+        "price": "4629"
+    },
+    {
+        "name": "Apple iPhone 17 Pro e-SIM Only | 256GB Silver",
+        "price": "3899"
+    },
+    {
+        "name": "Apple iPhone 17 Pro e-SIM Only | 256GB Deep Blue",
+        "price": "3899"
+    },
+    {
+        "name": "Apple iPhone 17 Pro e-SIM Only | 256GB Cosmic Orange",
+        "price": "3899"
+    },
+    {
+        "name": "Apple iPhone 17 Pro | 256GB Silver",
+        "price": "4229"
+    },
+    {
+        "name": "Apple iPhone 17 Pro | 256GB Cosmic Orange",
+        "price": "4229"
+    },
+    {
+        "name": "Apple iPhone 17 Pro | 256GB Deep Blue",
+        "price": "4229"
+    },
+    {
+        "name": "Apple iPhone Air e-SIM | 256GB Cloud White",
+        "price": "2999"
+    },
+    {
+        "name": "Apple iPhone Air e-SIM | 256GB Light Gold",
+        "price": "2999"
+    },
+    {
+        "name": "Apple iPhone Air e-SIM | 256GB Sky Blue",
+        "price": "2999"
+    },
+    {
+        "name": "Apple iPhone Air e-SIM | 256GB Space Black",
+        "price": "2999"
+    },
+    {
+        "name": "Apple iPhone 17 e-SIM Only | 256GB White",
+        "price": "2649"
+    },
+    {
+        "name": "Apple iPhone 17 e-SIM Only | 256GB Lavender",
+        "price": "2649"
+    },
+    {
+        "name": "Apple iPhone 17 e-SIM Only | 256GB Sage",
+        "price": "2649"
+    },
+    {
+        "name": "Apple iPhone 17 e-SIM Only | 256GB Mist Blue",
+        "price": "2649"
+    },
+    {
+        "name": "Apple iPhone 17 e-SIM Only | 256GB Black",
+        "price": "2649"
+    },
+    {
+        "name": "Apple iPhone 17 | 256GB White",
+        "price": "2789"
+    },
+    {
+        "name": "Apple iPhone 17 | 256GB Sage",
+        "price": "2789"
+    },
+    {
+        "name": "Apple iPhone 17 | 256GB Mist Blue",
+        "price": "2789"
+    },
+    {
+        "name": "Apple iPhone 17 | 256GB Lavender",
+        "price": "2789"
+    },
+    {
+        "name": "Apple iPhone 17 | 256GB Black",
+        "price": "2789"
+    },
+    {
+        "name": "Apple iPhone 16 | 128GB Ultramarine",
+        "price": "2399"
+    },
+    {
+        "name": "Apple iPhone 16 | 128GB Teal",
+        "price": "2399"
+    },
+    {
+        "name": "Apple iPhone 16 | 128GB White",
+        "price": "2399"
+    },
+    {
+        "name": "Apple iPhone 16 | 128GB Black",
+        "price": "2399"
+    },
+    {
+        "name": "Samsung Galaxy S25 Ultra S938B/DS 5G 12/256GB Titanium Jet Black",
+        "price": "2999"
+    },
+    {
+        "name": "Samsung Galaxy S25 Ultra S938B/DS 5G 12/256GB Titanium White Silver",
+        "price": "2999"
+    },
+    {
+        "name": "Samsung Galaxy S25 Ultra S938B/DS 5G 12/256GB Titanium Silver Blue",
+        "price": "2999"
+    },
+    {
+        "name": "Samsung Galaxy S25 Ultra S938B/DS 5G 12/256GB Titanium Grey",
+        "price": "2999"
+    },
+    {
+        "name": "Samsung Galaxy S25 Ultra S938B/DS 5G 12/256GB Titanium Black",
+        "price": "2999"
+    },
+    {
+        "name": "OnePlus 15 5G 16GB/512GB Sandstorm",
+        "price": "2999"
+    },
+    {
+        "name": "OnePlus 15 5G 16GB/512GB Black",
+        "price": "2999"
+    },
+    {
+        "name": "OnePlus 13 5G 16/512GB Ocean Blue",
+        "price": "2499"
+    },
+    {
+        "name": "OnePlus 13 5G 16/512GB Black",
+        "price": "2499"
+    },
+    {
+        "name": "OnePlus 13 5G 16/512GB Arctic Grey",
+        "price": "2499"
+    },
+    {
+        "name": "Google Pixel 9 12/128GB Peony",
+        "price": "1799"
+    },
+    {
+        "name": "Samsung Galaxy A06 A065FD 4/64GB Black",
+        "price": "259"
+    },
+    {
+        "name": "Apple iPhone 15 | 128GB Pink",
+        "price": "2149"
+    },
+    {
+        "name": "Apple iPhone 15 | 128GB Blue",
+        "price": "2149"
+    },
+    {
+        "name": "Google Pixel 7 Pro 5G 12/128GB Snow",
+        "price": "1249"
+    },
+    {
+        "name": "Google Pixel 7 Pro 5G 12/128GB Obsidian",
+        "price": "1249"
+    },
+    {
+        "name": "Vivo V70 FE 5G 8/256GB Silver",
+        "price": "1229"
+    },
+    {
+        "name": "Vivo V70 FE 5G 8/256GB Blue",
+        "price": "1229"
+    },
+    {
+        "name": "Vivo V70 5G 12/256GB Grey",
+        "price": "1779"
+    },
+    {
+        "name": "Vivo V70 5G 12/256GB Black",
+        "price": "1779"
+    },
+    {
+        "name": "Xiaomi Redmi A7 Pro LTE 4/128GB Blue",
+        "price": "319"
+    },
+    {
+        "name": "Xiaomi Redmi A7 Pro LTE 4/128GB Black",
+        "price": "319"
+    },
+    {
+        "name": "Realme Note 70 LTE 4/128GB Glod",
+        "price": "279"
+    },
+    {
+        "name": "Realme Note 70 LTE 4/128GB Black",
+        "price": "279"
+    },
+    {
+        "name": "Nothing Phone 4a Pro 5G 12/256GB Black",
+        "price": "2099"
+    },
+    {
+        "name": "Nothing Phone 4a 5G 8/256GB White",
+        "price": "1599"
+    },
+    {
+        "name": "Nothing Phone 4a 5G 8/128GB White",
+        "price": "1399"
+    },
+    {
+        "name": "Nothing Phone 4a 5G 8/128GB Black",
+        "price": "1399"
+    },
+    {
+        "name": "Nothing Phone 4a 5G 12/256GB White",
+        "price": "1699"
+    },
+    {
+        "name": "Nothing Phone 4a 5G 12/256GB Black",
+        "price": "1699"
+    },
+    {
+        "name": "Motorola Moto Edge 60 Fusion 5G 8/256GB Zephyr",
+        "price": "899"
+    },
+    {
+        "name": "Motorola Moto G67 5G 4/256GB Nile",
+        "price": "729"
+    },
+    {
+        "name": "Motorola Moto G67 5G 4/256GB Arctic Seal",
+        "price": "729"
+    },
+    {
+        "name": "Motorola Signature 5G 16/512GB Martini Olive",
+        "price": "2699"
+    },
+    {
+        "name": "Google Pixel 10A 5G 8/128GB Obsidian",
+        "price": "1799"
+    },
+    {
+        "name": "Google Pixel 10A 5G 8/128GB Lavender",
+        "price": "1799"
+    },
+    {
+        "name": "Google Pixel 10A 5G 8/128GB Fog",
+        "price": "1799"
+    },
+    {
+        "name": "Google Pixel 10A 5G 8/256GB Obsidian",
+        "price": "2199"
+    },
+    {
+        "name": "Google Pixel 10A 5G 8/256GB Lavender",
+        "price": "2199"
+    },
+    {
+        "name": "Google Pixel 10A 5G 8/256GB Fog",
+        "price": "2199"
+    },
+    {
+        "name": "Google Pixel 10A 5G 8/256GB Berry",
+        "price": "2199"
+    },
+    {
+        "name": "Xiaomi Poco F8 Ultra 5G 12/256GB Black",
+        "price": "2299"
+    },
+    {
+        "name": "OnePlus 15 5G 16/512GB Sandstorm With Charger",
+        "price": "2929"
+    },
+    {
+        "name": "Samsung Galaxy A57 A576BD 5G 8/256GB Violet",
+        "price": "1349"
+    },
+    {
+        "name": "Samsung Galaxy A57 A576BD 5G 8/256GB Grey",
+        "price": "1349"
+    },
+    {
+        "name": "Samsung Galaxy A57 A576BD 5G 8/256GB Dark Blue",
+        "price": "1349"
+    },
+    {
+        "name": "Apple iPhone 17e | 256GB Soft Pink",
+        "price": "2089"
+    },
+    {
+        "name": "Apple iPhone 17e | 256GB Black",
+        "price": "2089"
+    },
+    {
+        "name": "Xiaomi Poco X8 Pro 5G 8/256GB White",
+        "price": "1049"
+    },
+    {
+        "name": "Xiaomi Poco X8 Pro 5G 8/256GB Green",
+        "price": "1049"
+    },
+    {
+        "name": "Xiaomi Poco X8 Pro 5G 8/256GB Black",
+        "price": "1049"
+    },
+    {
+        "name": "Xiaomi Poco X8 Pro 5G 12/512GB Black",
+        "price": "1199"
+    },
+    {
+        "name": "Xiaomi Poco X8 Pro Max 5G 12/512GB Blue",
+        "price": "1499"
+    },
+    {
+        "name": "Xiaomi Poco X8 Pro Max 5G 12/512GB Black",
+        "price": "1499"
+    },
+    {
+        "name": "Xiaomi Poco X8 Pro Max 5G 12/256GB White",
+        "price": "1399"
+    },
+    {
+        "name": "Xiaomi Poco X8 Pro Max 5G 12/256GB Blue",
+        "price": "1399"
+    },
+    {
+        "name": "Xiaomi Poco X8 Pro Max 5G 12/256GB Black",
+        "price": "1399"
+    },
+    {
+        "name": "Apple iPhone 17e e-SIM Only | 256GB White",
+        "price": "1999"
+    }
+]
